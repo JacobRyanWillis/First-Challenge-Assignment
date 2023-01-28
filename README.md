@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this assignment was to learn how to analyze and improve another developers code. I learned new semantic tags and how to condense code to make it less repetitive. I also learned how to use media querires and proper use of comments. 
+The purpose of this assignment was to learn how to analyze and improve another developers code. I learned new semantic tags and how to condense code to make it less repetitive. I also learned how to use media queries and proper use of comments. 
 
 ## Installation
 
@@ -14,10 +14,9 @@ No usage just for review.
 
 ## Credits
 
-Morgan Riley
-Andres Inciarte
-Andres Jimenez
-Google
+<pre>Morgan Riley</pre>
+<pre>Andres Inciarte</pre>
+<pre>Andres Jimenez</pre>
 
 ## License
 
