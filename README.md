@@ -17,6 +17,7 @@ No usage just for review.
 <pre>Morgan Riley</pre>
 <pre>Andres Inciarte</pre>
 <pre>Andres Jimenez</pre>
+<pre>Patrick Meehan</pre>
 
 ## License
 
