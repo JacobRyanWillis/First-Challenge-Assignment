@@ -145,11 +145,23 @@ footer h2 {
       width: 75%;
       margin-left: 12%;
       float: none;
-      }
+    }
+
     .content {
       width: 75%;
       margin-left: 12%; 
       overflow: auto;
+      background-color: #0072bb;  
+    }
+
+    img {
+        display: hidden;
+    }
+}
+
+@media all and (max-width: 500px) {
+    img {
+        display: contents;
     }
 }
 
